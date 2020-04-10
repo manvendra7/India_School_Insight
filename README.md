@@ -1,2 +1,2 @@
 # India_School_Insight
-Most often parents ask others which school is better for their children. So here we are trying to solve this problems of identifying Good schools for parents based on different parameters.
+Most parents ask others which school is better for their children. So here we are trying to solve this problem of identifying good schools so that it could help parents to decide the good school for their childs.
